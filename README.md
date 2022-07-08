@@ -10,3 +10,8 @@ Sei que poderia ficar muito melhor, mas foi o que a equipe conseguiu desenvolver
 
 Apesar disso, o jogo ficou divertido! =)
 O arquivo executável para Windows encontra-se no repositório.
+
+Contribuições:
+Rodrigo Mattos Scavassin - Criação da física do jogo, inteligência dos inimigos, movimentação do personagem, tela de início.
+Matheus da Silva Avelino - Criação do mapa do jogo.
+Agnes Cordeiro Marcondes - Elaboração da arte do jogo.
