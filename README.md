@@ -1,2 +1,17 @@
-# pygame_project02
-Pygame Project 02 is a game developed using pygame lib, educational porposes.
+# StrangePlanet
+Criação de jogo Strange Plantet para a matéria de Jogos Virtuais.
+O jogo foi desenvolvido utilizando o Pygame. É um jogo de aventura top down na qual o jogador assume o papel de um astronauta que caiu em um planeta desconhecido.
+
+O jogo foi desenvolvido apenas com o propósito de aprendizado, não para fins comerciais.
+
+AVISO:
+O código do jogo está mal escrito. Não tivemos manutenabilidade e reusabilidade em mente. 
+Sei que poderia ficar muito melhor, mas foi o que a equipe conseguiu desenvolver no tempo determinado.
+
+Apesar disso, o jogo ficou divertido! =)
+O arquivo executável para Windows encontra-se no repositório.
+
+Contribuições:
+Rodrigo Mattos Scavassin - Criação da física do jogo, inteligência dos inimigos, movimentação do personagem, tela de início.
+Matheus da Silva Avelino - Criação do mapa do jogo.
+Agnes Cordeiro Marcondes - Elaboração da arte do jogo.
